@@ -1,0 +1,5 @@
+cryptography==44.0.0
+Flask==3.1.0
+Flask_Caching==2.3.0
+psutil==6.1.1
+Requests==2.32.3
