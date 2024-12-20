@@ -2,6 +2,17 @@
 
 **Scout** is an osquery extension that provides two powerful tables for executing and managing scripts in a secure and efficient manner.
 
+## Supported Script Types
+
+Scout currently supports the following script types:
+
+- **Python**: Execute limited Python scripts for various automation and data collection tasks.
+- **Bash**: Run Bash scripts for system administration and configuration.
+- **PowerShell**: Utilize PowerShell scripts for Windows environments.
+- **Vbscript**: Execute VB scripts for specific use cases and integrations.
+
+Support for additional script types may be added in future releases based on user feedback and requirements.
+
 ## Tables
 
 ### 1. `scout_exec`
